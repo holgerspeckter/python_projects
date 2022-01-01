@@ -5,7 +5,7 @@ This page contains a few samples of projects I've created either for fun or as p
 
 ### Programming Language Usage Analysis (Data: 2008 - 2021)
 [Jupyter Notebook](https://github.com/holgerspeckter/Analysis_Usage_Programming_Language/blob/main/UsageProgrammingLanguage.ipynb)
-
+![ProgAnalysis](https://user-images.githubusercontent.com/96922284/147861645-d873f735-179a-4716-b733-d4b60b75c55a.PNG)
 ### Bitcoin Price vs Google Search Analysis
 [Jupyter Notebook](https://github.com/holgerspeckter/Analysis-Bitcoin-Price-vs-Google-Search/blob/main/Bitcoin%20Price%20vs.%20Google%20Search%20for%20Bitcoin%20Analysis.ipynb)
 
