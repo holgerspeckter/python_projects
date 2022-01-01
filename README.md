@@ -2,9 +2,6 @@
 
 This page contains a few samples of projects I've created either for fun or as part of courses.
 
-You can use the [editor on GitHub](https://github.com/holgerspeckter/python_projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Programming Language Usage Analysis (Data: 2008 - 2021)
 [Jupyter Notebook](https://github.com/holgerspeckter/Analysis_Usage_Programming_Language/blob/main/UsageProgrammingLanguage.ipynb)
@@ -14,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Google Play Store App Analysis (Data: 2018)
 [Jupyter Notebook](https://github.com/holgerspeckter/Google_PlayStore_Analysis_2018_Data/blob/main/Google_Play_Store_App_Analysis_2018.ipynb)
-
+(Screenshot)[https://github.com/holgerspeckter/holgerspeckter.github.io/blob/main/images/ProgAnalysis.PNG]
 tes Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
