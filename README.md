@@ -11,7 +11,7 @@ This page contains a few samples of projects I've created either for fun or as p
 
 ### Google Play Store App Analysis (Data: 2018)
 [Jupyter Notebook](https://github.com/holgerspeckter/Google_PlayStore_Analysis_2018_Data/blob/main/Google_Play_Store_App_Analysis_2018.ipynb)
-[Screenshot](https://github.com/holgerspeckter/holgerspeckter.github.io/blob/main/images/ProgAnalysis.PNG)
+[Screenshot](./images//ProgAnalysis.PNG)
 tes Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
