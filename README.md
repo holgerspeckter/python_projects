@@ -1,6 +1,6 @@
 ## My Python Projects
 
-This page contains a few samples of projects I've created either for fun or as part of courses.
+This page contains a few samples of projects I've created either for interest and/or as part of courses.
 
 
 ### Programming Language Usage Analysis (Data: 2008 - 2021)
