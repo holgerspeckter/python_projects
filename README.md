@@ -19,3 +19,9 @@ This page contains a few samples of projects I've created either for interest an
 - [Link to Jupyter Notebook](https://github.com/holgerspeckter/Google_PlayStore_Analysis_2018_Data/blob/main/Google_Play_Store_App_Analysis_2018.ipynb)
  
 ![googleAnalysis_s](https://user-images.githubusercontent.com/96922284/147862130-86d06d6b-7451-4115-bccd-9be94a46c307.png)
+
+
+### Stock Price Live Ticker via yfinance package
+- [Link to Jupyter Notebook](https://github.com/holgerspeckter/Stock_Price_Live_Ticker/blob/main/Stock%20Price%20via%20yfinance%20live%20Ticker.ipynb)
+ 
+![googleAnalysis_s](https://user-images.githubusercontent.com/96922284/147862130-86d06d6b-7451-4115-bccd-9be94a46c307.png)
