@@ -11,7 +11,7 @@ This page contains a few samples of projects I've created either for interest an
 ### Password App using QT
 - [Link to Jupyter Notebook](https://github.com/holgerspeckter/Python_password_generator/blob/main/Password%20Generator%20with%20UI.ipynb)
  
-![stockprice1](https://user-images.githubusercontent.com/96922284/148051121-3ffe5f4f-d172-4b21-a837-9a8bfa118117.png)
+![pwg](https://user-images.githubusercontent.com/96922284/148641936-9306963c-cbf0-4800-ab03-6cad2c72e634.PNG)
 
 ### Bitcoin Price vs Google Search Analysis
 - [Link to Jupyter Notebook](https://github.com/holgerspeckter/Analysis-Bitcoin-Price-vs-Google-Search/blob/main/Bitcoin%20Price%20vs.%20Google%20Search%20for%20Bitcoin%20Analysis.ipynb)
